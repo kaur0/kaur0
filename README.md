@@ -5,7 +5,7 @@
   <br>
 </p>
 <h3></h3>
-### <h3><strong>🌱Ce que j'apprend</strong></h3>
+<h3><strong>🌱Ce que j'apprend</strong></h3>
 <ul>
     <li>
         <p><h5>Python</h5></p>
@@ -22,7 +22,7 @@
 </ul>
 <hr>
 <br>
-### <h3><strong>👨‍💻Mes Projets Futurs</strong></h3> 
+<h3><strong>👨‍💻Mes Projets Futurs</strong></h3> 
 <ul>
     <li>
         <p><h5>Maitriser totalement le Python</h5></p>
