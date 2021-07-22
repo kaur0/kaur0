@@ -1,5 +1,9 @@
 <p><h1 align="center">Hello</h1></p>
 <br>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/347487369777381377.png">
+  <br>
+</p>
 <h3></h3>
 <h3><strong>🌱ce que j'apprend</strong></h3>
 <ul>
@@ -30,4 +34,6 @@
         <p><h5>Me renseigner sur les Crypto-monnaies</h5></p>
     </li>
 </ul>
+
+
 
